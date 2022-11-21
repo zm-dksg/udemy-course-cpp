@@ -1,0 +1,4 @@
+-ID:\udemy-courses\udemy-cpp-course\FirstWorkspace\ProjectOne
+-std=c++17
+-target
+
